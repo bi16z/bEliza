@@ -1,0 +1,4 @@
+node_modules
+dist
+belizaConfig.yaml
+custom_actions/
